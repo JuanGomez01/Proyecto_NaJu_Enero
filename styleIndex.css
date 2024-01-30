@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.tarjetasBurgers{
+    display: flex;
+    flex-direction: row;
+}
+
+.cuadroBurger{
+    height: 300px;
+    width: 220px;
+    margin: 15px;
+    padding: 8px;
+    border-style: solid;
+    border-color:whitesmoke;
+    border-radius: 12px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 8px;
+}
+
+h1{
+    color: rgb(185, 12, 12);
+}
+*{
+    box-sizing: border-box;
+}
+.fotosburger{
+    width: 100%;
+    object-fit: contain;
+
+
+}
